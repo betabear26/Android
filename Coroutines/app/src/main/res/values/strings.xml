@@ -4,4 +4,7 @@
     <string name="basic_work">Basic Work</string>
     <string name="scope_work">Scope Work</string>
     <string name="scope_work_parallel">Scope work in ||</string>
+    <string name="simple_cancel">Simple Cancle</string>
+    <string name="cancel">Cancel</string>
+    <string name="cant_cancel">Cant Cancel</string>
 </resources>
