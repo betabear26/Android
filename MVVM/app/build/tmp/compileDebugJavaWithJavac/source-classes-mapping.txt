@@ -1,0 +1,108 @@
+dev/sandeepsuman/mvvm/BuildConfig.java
+ dev.sandeepsuman.mvvm.BuildConfig
+hilt_aggregated_deps/_androidx_hilt_lifecycle_ViewModelFactoryModules_ActivityModuleModuleDeps.java
+ hilt_aggregated_deps._androidx_hilt_lifecycle_ViewModelFactoryModules_ActivityModuleModuleDeps
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+hilt_aggregated_deps/_dev_sandeepsuman_mvvm_ui_vm_PersonViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._dev_sandeepsuman_mvvm_ui_vm_PersonViewModel_HiltModules_BindsModule
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+dev/sandeepsuman/mvvm/App_GeneratedInjector.java
+ dev.sandeepsuman.mvvm.App_GeneratedInjector
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+dev/sandeepsuman/mvvm/Hilt_App.java
+ dev.sandeepsuman.mvvm.Hilt_App
+ dev.sandeepsuman.mvvm.Hilt_App$1
+hilt_aggregated_deps/_androidx_hilt_lifecycle_ViewModelFactoryModules_FragmentModuleModuleDeps.java
+ hilt_aggregated_deps._androidx_hilt_lifecycle_ViewModelFactoryModules_FragmentModuleModuleDeps
+dev/sandeepsuman/mvvm/databinding/ActivityMainBinding.java
+ dev.sandeepsuman.mvvm.databinding.ActivityMainBinding
+dev/sandeepsuman/mvvm/ui/vm/PersonViewModel_HiltModules_KeyModule_ProvideFactory.java
+ dev.sandeepsuman.mvvm.ui.vm.PersonViewModel_HiltModules_KeyModule_ProvideFactory
+ dev.sandeepsuman.mvvm.ui.vm.PersonViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+dagger/hilt/internal/aggregatedroot/codegen/_dev_sandeepsuman_mvvm_App.java
+ dagger.hilt.internal.aggregatedroot.codegen._dev_sandeepsuman_mvvm_App
+dev/sandeepsuman/mvvm/DataBindingTriggerClass.java
+ dev.sandeepsuman.mvvm.DataBindingTriggerClass
+dev/sandeepsuman/mvvm/ui/vm/PersonViewModel_Factory.java
+ dev.sandeepsuman.mvvm.ui.vm.PersonViewModel_Factory
+dev/sandeepsuman/mvvm/App_ComponentTreeDeps.java
+ dev.sandeepsuman.mvvm.App_ComponentTreeDeps
+hilt_aggregated_deps/_dev_sandeepsuman_mvvm_App_GeneratedInjector.java
+ hilt_aggregated_deps._dev_sandeepsuman_mvvm_App_GeneratedInjector
+hilt_aggregated_deps/_dev_sandeepsuman_mvvm_ui_vm_PersonViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._dev_sandeepsuman_mvvm_ui_vm_PersonViewModel_HiltModules_KeyModule
+dev/sandeepsuman/mvvm/injection/NetworkModule_ProvideRetrofitClientFactory.java
+ dev.sandeepsuman.mvvm.injection.NetworkModule_ProvideRetrofitClientFactory
+hilt_aggregated_deps/_dev_sandeepsuman_mvvm_injection_NetworkModule.java
+ hilt_aggregated_deps._dev_sandeepsuman_mvvm_injection_NetworkModule
+hilt_aggregated_deps/_dev_sandeepsuman_mvvm_ui_view_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._dev_sandeepsuman_mvvm_ui_view_MainActivity_GeneratedInjector
+dev/sandeepsuman/mvvm/BR.java
+ dev.sandeepsuman.mvvm.BR
+dev/sandeepsuman/mvvm/ui/vm/PersonViewModel_HiltModules.java
+ dev.sandeepsuman.mvvm.ui.vm.PersonViewModel_HiltModules
+ dev.sandeepsuman.mvvm.ui.vm.PersonViewModel_HiltModules$BindsModule
+ dev.sandeepsuman.mvvm.ui.vm.PersonViewModel_HiltModules$KeyModule
+dev/sandeepsuman/mvvm/injection/NetworkModule_ProvideRepoFactory.java
+ dev.sandeepsuman.mvvm.injection.NetworkModule_ProvideRepoFactory
+dagger/hilt/internal/processedrootsentinel/codegen/_dev_sandeepsuman_mvvm_App.java
+ dagger.hilt.internal.processedrootsentinel.codegen._dev_sandeepsuman_mvvm_App
+dev/sandeepsuman/mvvm/databinding/ActivityMainBindingImpl.java
+ dev.sandeepsuman.mvvm.databinding.ActivityMainBindingImpl
+dev/sandeepsuman/mvvm/ui/view/MainActivity_GeneratedInjector.java
+ dev.sandeepsuman.mvvm.ui.view.MainActivity_GeneratedInjector
+dev/sandeepsuman/mvvm/DataBinderMapperImpl.java
+ dev.sandeepsuman.mvvm.DataBinderMapperImpl
+ dev.sandeepsuman.mvvm.DataBinderMapperImpl$InnerBrLookup
+ dev.sandeepsuman.mvvm.DataBinderMapperImpl$InnerLayoutIdLookup
+dev/sandeepsuman/mvvm/App_HiltComponents.java
+ dev.sandeepsuman.mvvm.App_HiltComponents
+ dev.sandeepsuman.mvvm.App_HiltComponents$ActivityC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ActivityC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$ActivityCBuilderModule
+ dev.sandeepsuman.mvvm.App_HiltComponents$ActivityRetainedC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ActivityRetainedC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$ActivityRetainedCBuilderModule
+ dev.sandeepsuman.mvvm.App_HiltComponents$FragmentC
+ dev.sandeepsuman.mvvm.App_HiltComponents$FragmentC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$FragmentCBuilderModule
+ dev.sandeepsuman.mvvm.App_HiltComponents$ServiceC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ServiceC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$ServiceCBuilderModule
+ dev.sandeepsuman.mvvm.App_HiltComponents$SingletonC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewCBuilderModule
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewModelC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewModelC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewModelCBuilderModule
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewWithFragmentC
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewWithFragmentC$Builder
+ dev.sandeepsuman.mvvm.App_HiltComponents$ViewWithFragmentCBuilderModule
+dev/sandeepsuman/mvvm/DaggerApp_HiltComponents_SingletonC.java
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$1
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ActivityCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ActivityCImpl
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$Builder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$FragmentCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$FragmentCImpl
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ServiceCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ServiceCImpl
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$SwitchingProvider
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewCImpl
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewModelCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewModelCImpl
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ dev.sandeepsuman.mvvm.DaggerApp_HiltComponents_SingletonC$ViewWithFragmentCImpl
+dev/sandeepsuman/mvvm/ui/view/Hilt_MainActivity.java
+ dev.sandeepsuman.mvvm.ui.view.Hilt_MainActivity
+ dev.sandeepsuman.mvvm.ui.view.Hilt_MainActivity$1
